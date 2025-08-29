@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Visit-MacAdmin%20Musings-FF6B6B?style=flat" alt="Visit MacAdmin Musings Website"/>
 </a>
 
-
+<!--
 ## 🛠️ Technologies & Tools
 
 ### Device Management
@@ -30,7 +30,7 @@
 ### Programming & Scripting
 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
+-->
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=MScottBlake&show_icons=true&theme=dark" alt="GitHub Stats" />
