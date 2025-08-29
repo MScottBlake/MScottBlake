@@ -23,9 +23,9 @@
 ### Cloud & DevOps
 
 - AWS
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-- ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-- ![Terraform](https://img.shields.io/badge/Terraform-0078D7?style=flat-square&logo=terraform&logoColor=white) CI/CD & Infrastructure as Code
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) CI/CD
+- ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) CI/CD
+- ![Terraform](https://img.shields.io/badge/Terraform-0078D7?style=flat-square&logo=terraform&logoColor=white) Infrastructure as Code
 
 ### Programming & Scripting
 
