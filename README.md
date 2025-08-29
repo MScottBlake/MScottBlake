@@ -1,6 +1,6 @@
 ## Hi there, welcome to my GitHub Profile 👋
 
-<a href="https://fosstodon.org/MScottBlake">
+<a href="https://fosstodon.org/@MScottBlake">
   <img src="https://img.shields.io/badge/Follow-@MScottBlake-6364FF?style=flat&logo=mastodon&logoColor=white" alt="Mastodon Follow"/>
 </a>
 <a href="https://www.linkedin.com/in/MScottBlake/">
@@ -37,4 +37,4 @@
 
 ## 📫 Get in Touch
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/MScottBlake/) or [Mastodon](https://fosstodon.org/MScottBlake) for collaborations or discussions!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/MScottBlake/) or [Mastodon](https://fosstodon.org/@MScottBlake) for collaborations or discussions!
