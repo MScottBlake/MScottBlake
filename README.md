@@ -1,14 +1,8 @@
 ## Hi there, welcome to my GitHub Profile 👋
 
-<a href="https://fosstodon.org/@MScottBlake">
-  <img src="https://img.shields.io/badge/Follow-@MScottBlake-6364FF?style=flat&logo=mastodon&logoColor=white" alt="Mastodon Follow"/>
-</a>
-<a href="https://www.linkedin.com/in/MScottBlake/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/>
-</a>
-<a href="https://macadminmusings.com/">
-  <img src="https://img.shields.io/badge/Visit-MacAdmin%20Musings-FF6B6B?style=flat" alt="Visit MacAdmin Musings Website"/>
-</a>
+<a href="https://fosstodon.org/@MScottBlake"><img src="https://img.shields.io/badge/Follow-@MScottBlake-6364FF?style=flat&logo=mastodon&logoColor=white" alt="Mastodon Follow"/></a>
+<a href="https://www.linkedin.com/in/MScottBlake/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://macadminmusings.com/"><img src="https://img.shields.io/badge/Visit-MacAdmin%20Musings-FF6B6B?style=flat" alt="Visit MacAdmin Musings Website"/></a>
 
 <!--
 ## 🛠️ Technologies & Tools
