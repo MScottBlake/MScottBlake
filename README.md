@@ -25,10 +25,11 @@
 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 -->
+<!--
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=MScottBlake&show_icons=true&theme=dark" alt="GitHub Stats" />
-
+-->
 ## 📫 Get in Touch
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/MScottBlake/) or [Mastodon](https://fosstodon.org/@MScottBlake) for collaborations or discussions!
