@@ -6,12 +6,12 @@
 
 ## 📊 GitHub Stats
 
+![Stats-Light](./profile/stats_light.svg#gh-light-mode-only)
+![Stats-Dark](./profile/stats_dark.svg#gh-dark-mode-only)
 <!--
-![MScottBlake github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=MScottBlake)
-![MScottBlake github-trophies](https://stats.hyo.dev/api/github-trophies?login=MScottBlake)
--->
 [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MScottBlake&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MScottBlake&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+-->
 
 ## 📫 Get in Touch
 
