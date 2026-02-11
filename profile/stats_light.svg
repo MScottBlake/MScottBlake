@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Scott Blake's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 133, Total Commits  (last year) : 1120, Total PRs: 245, Total Issues: 67, Contributed to (last year): 84</desc>
+        <desc id="descId">Total Stars Earned: 133, Total Commits  (last year) : 1122, Total PRs: 245, Total Issues: 67, Contributed to (last year): 84</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 38.98616479285241;
+        stroke-dashoffset: 38.975785061501654;
       }
     }
   
